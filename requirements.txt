@@ -1,2 +1,3 @@
 gunicorn==22.0.0
-Django==3.1.2setuptools==70.0.0
+Django==3.1.2
+setuptools==70.0.0
